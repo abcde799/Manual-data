@@ -1,3 +1,3 @@
-# Manaul-data
+# Manual-data
 
 This project....
