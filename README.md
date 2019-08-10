@@ -13,8 +13,11 @@ To address these questions the libraries numpy, pandas, and sci-kit learn were u
 In this repo are included the following contents:
 
 -Three IPython notebooks:
+
   (i) 'used_manual_trans_car_market_july_2019': This is contains all the code for the main project which is addressing (I) and (II) above.
+  
   (ii) 'saving_web_pages_locally': This contains code for saving webpages locally from the relevant website using BeautifulSoup.
+  
   (iii) 'scrape_locally_saved_web_pages': This contains code for scraping locally saved webpages using the lxml parser, and putting all of the data into one big pandas dataframe.
   
   -One csv file, 'true_car_manual_transmission_07_2_2019': 
